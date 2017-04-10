@@ -1,5 +1,14 @@
 # Ignore everything...
 *
-# ... except preferences
+# ... except below
+# ... add wild cards
 !.gitignore
+!add-L-Separator.sublime-macro
+!add-M-Separator.sublime-macro
+!add-S-Separator.sublime-macro
+!add-XL-Separator.sublime-macro
+!close_tabs.py
+!copy_path_to_clipboard.py
+!Default (OSX).sublime-keymap
+!Package Control.sublime-settings
 !Preferences.sublime-settings
