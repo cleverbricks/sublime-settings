@@ -1,14 +1,14 @@
+
+# Ignore system files
+.DS_Store
+
 # Ignore everything...
+*/**
 *
-# ... except below
-# ... add wild cards
 !.gitignore
-!add-L-Separator.sublime-macro
-!add-M-Separator.sublime-macro
-!add-S-Separator.sublime-macro
-!add-XL-Separator.sublime-macro
-!close_tabs.py
-!copy_path_to_clipboard.py
-!Default (OSX).sublime-keymap
-!Package Control.sublime-settings
-!Preferences.sublime-settings
+
+# ...except the preferences file I've modified
+!*.sublime-settings
+!*.sublime-macro
+!*.py
+!*.sublime-keymap
