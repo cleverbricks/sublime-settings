@@ -2,7 +2,7 @@
         {
                 "args":
                 {
-                        "characters": "\n\n/*  ======= =======  */\n\n"
+                        "characters": "\n\n/*  ======= \t =======  */\n\n"
                 },
                 "command": "insert"
         }
