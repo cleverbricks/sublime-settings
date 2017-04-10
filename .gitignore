@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> Added and Committed.
 # Ignore system files
 .DS_Store
 
@@ -12,9 +8,5 @@
 !.gitignore
 !*.sublime-settings
 !*.sublime-macro
+!*.sublime-keymap
 !*.py
-<<<<<<< HEAD
-!*.sublime-keymap
-=======
-!*.sublime-keymap
->>>>>>> Added and Committed.
