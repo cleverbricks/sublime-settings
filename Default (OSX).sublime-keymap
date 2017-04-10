@@ -34,18 +34,5 @@
     "args": {
       "file": "Packages/User/add-S-Separator.sublime-macro"
     }
-  },
-  // advanced new file
-  { "keys": ["super+n"], "command": "advanced_new_file_new"},
-  // Copy file name
-  {
-    "keys": ["super+shift+c"],
-    "command": "copy_path_to_clipboard"
-  },
-  // Close all other tabs
-  {
-    "keys": ["super+alt+w"],
-    "command": "close_tabs"
   }
-
 ]
