@@ -3,11 +3,10 @@
 .DS_Store
 
 # Ignore everything...
-*/**
 *
-!.gitignore
 
-# ...except the preferences file I've modified
+# ...except the below files
+!.gitignore
 !*.sublime-settings
 !*.sublime-macro
 !*.py
