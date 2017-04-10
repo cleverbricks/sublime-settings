@@ -1,0 +1,38 @@
+[
+  {
+    "keys": [
+      "alt+shift+1"
+    ],
+    "command": "run_macro_file",
+    "args": {
+      "file": "Packages/User/add-XL-Separator.sublime-macro"
+    }
+  },
+  {
+    "keys": [
+      "alt+shift+2"
+    ],
+    "command": "run_macro_file",
+    "args": {
+      "file": "Packages/User/add-L-Separator.sublime-macro"
+    }
+  },
+  {
+    "keys": [
+      "alt+shift+3"
+    ],
+    "command": "run_macro_file",
+    "args": {
+      "file": "Packages/User/add-M-Separator.sublime-macro"
+    }
+  },
+  {
+    "keys": [
+      "alt+shift+4"
+    ],
+    "command": "run_macro_file",
+    "args": {
+      "file": "Packages/User/add-S-Separator.sublime-macro"
+    }
+  }
+]
