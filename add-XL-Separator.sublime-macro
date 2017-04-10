@@ -1,0 +1,20 @@
+[
+        {
+                "args":
+                {
+                        "characters": "\n\n/*\n\t#############################################\n"
+                },
+                "command": "insert"
+        },
+        {
+                "args": null,
+                "command": "left_delete"
+        },
+        {
+                "args":
+                {
+                        "characters": "*/\n\n"
+                },
+                "command": "insert"
+        }
+]

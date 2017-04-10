@@ -1,0 +1,51 @@
+[
+  {
+    "keys": [
+      "alt+shift+1"
+    ],
+    "command": "run_macro_file",
+    "args": {
+      "file": "Packages/User/add-XL-Separator.sublime-macro"
+    }
+  },
+  {
+    "keys": [
+      "alt+shift+2"
+    ],
+    "command": "run_macro_file",
+    "args": {
+      "file": "Packages/User/add-L-Separator.sublime-macro"
+    }
+  },
+  {
+    "keys": [
+      "alt+shift+3"
+    ],
+    "command": "run_macro_file",
+    "args": {
+      "file": "Packages/User/add-M-Separator.sublime-macro"
+    }
+  },
+  {
+    "keys": [
+      "alt+shift+4"
+    ],
+    "command": "run_macro_file",
+    "args": {
+      "file": "Packages/User/add-S-Separator.sublime-macro"
+    }
+  },
+  // advanced new file
+  { "keys": ["super+n"], "command": "advanced_new_file_new"},
+  // Copy file name
+  {
+    "keys": ["super+shift+c"],
+    "command": "copy_path_to_clipboard"
+  },
+  // Close all other tabs
+  {
+    "keys": ["super+alt+w"],
+    "command": "close_tabs"
+  }
+
+]
